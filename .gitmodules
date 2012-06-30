@@ -1,0 +1,3 @@
+[submodule "libraries/orientdb-php"]
+	path = libraries/orientdb-php
+	url = git://github.com/AntonTerekhov/OrientDB-PHP.git
